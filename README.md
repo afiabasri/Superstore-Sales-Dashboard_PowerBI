@@ -21,4 +21,7 @@ This dashboard analyzes Superstore sales performance using Power BI.
 - Data Visualization
 
 ## 🔹 Dashboard Preview
-![Dashboard](dashboard.png)
+![dashboard2.png](https://github.com/afiabasri/Superstore-Sales-Dashboard_PowerBI/blob/main/home%20page.png)
+![Dashboard ](dashboard.png)
+
+
